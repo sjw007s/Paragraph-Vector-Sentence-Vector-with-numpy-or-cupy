@@ -1,7 +1,7 @@
 # Sentence Vector with numpy or cupy
 Sentence Vector with numpy or cupy // Sentence Vector without frameworks.
 
-This is a code that implements the Sentence Vector in the paper below with numpy or cupy. Le, Quoc, and Tomas Mikolov. "Distributed representations of sentences and documents." International conference on machine learning. PMLR, 2014. TensorFlow, Pytorch and Gensim can implement the code, but it makes all the arrays to see how the Sentence vector works in detail. It reproduces weight generation, forward propagation, and back propagation. It was confirmed that 'is' and 'are' are going to a close position. I think it will be useful for those who want to acquire the ability to implement artificial neural networks without the frameworks. The code has been transformed using The code has been transformed using https://github.com/KONANtechnology/Academy.ALZZA.
+This is a code that implements the Sentence Vector in the paper below with numpy or cupy. Le, Quoc, and Tomas Mikolov. "Distributed representations of sentences and documents." International conference on machine learning. PMLR, 2014. TensorFlow, Pytorch and Gensim can implement the code, but it makes all the arrays to see how the Sentence Vector works in detail. It reproduces weight generation, forward propagation, and back propagation. It was confirmed that 'is' and 'are' are going to a close position. I think it will be useful for those who want to acquire the ability to implement artificial neural networks without the frameworks. The code has been transformed using The code has been transformed using https://github.com/KONANtechnology/Academy.ALZZA.
 E-mail: sjw007s@korea.ac.kr
 
 How to run: Run the last code in chap15/NLP_result.ipynb.
